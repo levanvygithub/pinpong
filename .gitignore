@@ -7,3 +7,4 @@ file3.txt
 #folder/**
 #!n.exe
 *.txt
+!hello.txt
