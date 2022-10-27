@@ -1,0 +1,9 @@
+# bo com me no di 
+*.exe
+file1
+*DS_Store
+file3.txt
+#**/folder
+#folder/**
+#!n.exe
+*.txt
